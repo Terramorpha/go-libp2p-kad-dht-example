@@ -1,0 +1,4 @@
+#+TITLE: go-libp2p-kad-dht Example
+
+This is a simple program to showcase the use of =libp2p= and the dht to find
+another peer in the network.
